@@ -4,7 +4,7 @@ Koch curve, which appeared in a 1904 by Helge von Koch is one of the fractals.
 
 It is shown in this figure.
 
-![Koch curve](./koch curve.png)
+![Koch curve](./kochcurve.png)
 
 # Using
 The source code is written in [Processing](https://processing.org).
